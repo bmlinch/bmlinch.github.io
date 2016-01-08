@@ -1,3 +1,23 @@
-bcg-img{
-    background-image: url("assets/img/african.jpg"))
+
+.image { 
+   position: absolute; 
+   max-width: 100%;
+   margin: auto;
+   display:block;
+   top: 0;
+   left: 0;
+   right: 0;
+}
+
+h2 { 
+   position: absolute; 
+   top: 1px; 
+   left: 0; 
+   width: 100%;
+   text-align: center;
+   color: lightgrey;
+}
+
+.p0{
+    padding: 0;
 }

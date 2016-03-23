@@ -7,6 +7,7 @@
    top: 0;
    left: 0;
    right: 0;
+   height: 100%;
 }
 
 h2 { 
@@ -33,6 +34,11 @@ h2 {
     text-align: center;
     display: inline-block;
 }
+.img-responsive{
+    height: 71.8%;
+    width: 100%;
+}
+
 
 
 
